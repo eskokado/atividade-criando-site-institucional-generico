@@ -31,7 +31,7 @@
 }
 
 .button-secondary{
-    height: var(--size-1);
+    height: var(--size-2);
     padding: 0 var(--paddingInlineButton);
     font-weight: var(--font-weight-1);
     font-size: var(--font-text-1);

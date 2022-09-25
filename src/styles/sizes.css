@@ -6,6 +6,28 @@
   width: 50%;
 }
 
+.width-partial-1 {
+  width: 70%;
+}
+
+.width-partial-2 {
+  width: 60%;
+}
+
+.width-partial-3 {
+  width: 40%;
+}
+.width-partial-4 {
+  width: 35%;
+}
+.width-partial-5 {
+  width: 30%;
+}
+.width-partial-6 {
+  width: 20%;
+}
+
+
 .width-section {
   width: 80%;
 }
@@ -28,6 +50,10 @@
 
 .height-screen {
   height: 100vh;
+}
+
+.height-partial-1 {
+  height: 250px;
 }
 
 .height-button-1 {

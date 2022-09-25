@@ -37,8 +37,8 @@
 .font-text-2{
     font-size: var(--font-text-2);
     font-weight: var(--font-weight-3);
-    line-height: var(--line-height-4);
-    color: var(--color-grey-7);
+    line-height: var(--line-height-3);
+    color: var(--color-grey-4);
 }
 .font-text-3{
     font-size: var(--font-text-3);
